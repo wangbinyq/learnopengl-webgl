@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^2.5.0"
+    "@parcel/transformer-glsl": "2.5.0",
+    "parcel": "^2.5.0",
+    "typescript": "^4.6.3"
   }
 }
